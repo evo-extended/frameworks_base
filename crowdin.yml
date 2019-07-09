@@ -1,0 +1,7 @@
+files:
+  - source: /core/res/res/values/custom_strings.xml
+    translation: /core/res/res/values-%android_code%/custom_strings.xml
+  - source: /packages/SystemUI/res-keyguard/values/evolution_arrays.xml
+    translation: /packages/SystemUI/res-keyguard/values-%android_code%/evolution_arrays.xml
+  - source: /packages/SystemUI/res/values/custom_strings.xml
+    translation: /packages/SystemUI/res/values-%android_code%/custom_strings.xml
